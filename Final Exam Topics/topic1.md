@@ -1,4 +1,4 @@
-# A királyi hatalom újbóli megszilárdítása Anjou I. Károly idején, a visegrádi királytalálkozó
+# 1. tétel: A királyi hatalom újbóli megszilárdítása Anjou I. Károly idején, a visegrádi királytalálkozó
 
 1301-ben meghalt az utolsó Árpád-házi király, III. András. Halálakor Magyarországon a tartományuraságok fénykorukat élték.
 
