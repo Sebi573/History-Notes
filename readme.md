@@ -4,9 +4,9 @@
 
 | # | Esszé címe | Állapot | Link |
 |:--|:-----------------------------|:-------:|:----:|
-| 1 | Az athéni államszervezet és működése a demokrácia virágkorában |  | [Megnyitás](./esszek/egyiptom.md) |
-| 2 | A görög és a római építészet | | [Megnyitás](./esszek/2.md) | 
-| 3 | A zsidó monoteizmus | | [Megnyitás](./esszek/3.md)
+| 1 | Az athéni államszervezet és működése a demokrácia virágkorában |  | [Megnyitás](./essays/antiquity/1.md) |
+| 2 | A görög és a római építészet | | [Megnyitás]() | 
+| 3 | A zsidó monoteizmus | | [Megnyitás](./esszek/3.md) |
 | 4 | A kereszténység kialakulása, tanai, elterjedése | | [Megnyitás](./esszek/4.md)
 
 ### 2. A középkor
