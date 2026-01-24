@@ -1,75 +1,129 @@
-# 2. tétel: Az uradalom, a földbirtokosok és jobbágyok kötelességei és jogai
+## 🧠 ESSZÉVÁZLAT – Az uradalom, a földbirtokosok és jobbágyok kötelességei és jogai a középkorban
 
-A középkori feudális rendszer a germán világ és az antik római világ találkozásából jött létre. 
 
-**Germán örökség:** öröklődő társadalmi egyenlőtlenség gondolata, a törzsi előkelők állnak a társadalmi ranglétra tetején. 
+### 1. IDŐ- ÉS TÉRBELI ELHELYEZÉS
+- **Időhatár:** kora középkortól a XI–XIII. századig  
+- **Tér:** elsősorban Nyugat-Európa
 
-**Római örökség:** latin nyelv, kereszténység és a kialakuló egyház
-
-A klasszikus feudalizmus Nyugat-Európában alakult ki, a hűbérúr által adott földbirtok fejében a hűbéres katonai szolgálatot teljesített.
-
-A mezőgazdasági termelés fejlődése
 ---
 
-**Ókori uralkodó művelési mód:** legelőváltó rendszer (10 - 30 évig művelték, majd elhagyták)
+### 2. ELŐZMÉNYEK – A FEUDÁLIS RENDSZER KIALAKULÁSA
+- A feudális társadalom az **antik római** és a **germán világ** találkozásából jött létre  
 
-VIII. századtól változás → főként a kolostorok áttértek a **nyomásos földművelésre**
+**Germán örökség:**
+- öröklődő társadalmi egyenlőtlenség elfogadása  
+- törzsi előkelők vezető szerepe  
 
-Elsőként a **kétnyomásos gazdálkodási mód** (szántó + ugar évente cserélve), később a **háromnyomásos módszer** (őszi + tavaszi szántó és ugar évente forgatva)
+**Római örökség:**
+- latin nyelv  
+- kereszténység és az egyház szervezete  
+- római jogi hagyományok  
 
-X - XI. századra Nyugat-Európában háromnyomásos gazdálkodás, míg Dél-Európában kétnyomásos földművelés
+- A **klasszikus feudalizmus** Nyugat-Európában alakult ki  
+- A földbirtok lett a gazdaság és a hatalom alapja  
+- A hűbérúr földet adott → a hűbéres katonai szolgálattal tartozott
+
+---
+
+### 3. A MEZŐGAZDASÁGI TERMELÉS FEJLŐDÉSE
+
+#### 3.1 Művelési módok
+- **Ókorban:** legelőváltó gazdálkodás  
+  - 10–30 év művelés után a földet elhagyták  
+- **VIII. századtól változás**:
+  - kolostorok terjesztették el a **nyomásos földművelést**
+
+**Nyomásos rendszerek:**
+- **Kétnyomásos gazdálkodás:** szántó + ugar  
+- **Háromnyomásos gazdálkodás:**  
+  - őszi vetés  
+  - tavaszi vetés  
+  - ugar  
+
+- X–XI. századra:
+  - Nyugat-Európa → háromnyomásos  
+  - Dél-Európa → kétnyomásos
 
 **Előnyök:**
-- Megszűnt a vándorlási kényszer
-- Jobb kihasználtság
-- Népesség gyarapodása
+- megszűnt a vándorlási kényszer  
+- jobb földkihasználás  
+- népességnövekedés  
 
-**Új eszközök:**
-- A korábban használt könnyűekét leváltotta a nehézeke, amellyel mélyebben meg tudták forgatni a talajt.
-- Mozgatásához 4 - 6 ökörre volt szükség, azonban így is időt spórolt meg.
-- Új igaerő szükséglete → nagyállatartás
-- Új fogatolási módszer → nyakhám helyett szügyhám
-
-**Új rendszer felépítése:**
-- Az uradalom szántóföldjeit dűlőkre osztották fel (különböző adottságok, talajminőség)
-- Dűlőkön a parcellák felosztása sorsolással a jobbágyok között
-- Adott dűlőn minden parcellában ugyanazon nyomást kellett alkalmazni (hatékony szántás, az ugaron lévő állatok problémát okoztak volna)
-
-Az uradalom
 ---
 
-**Uradalom**: nagy kiterjedésű, nem feltétlenül összefüggő földterület, amely falvak tucatjait, földeket, erdőket és legelőket ölelt fel. Ezen felül igazgatási és bíráskodási szerepet is betöltött.
+#### 3.2 Technikai újítások
+- **Nehézeke** megjelenése:
+  - mélyebb talajforgatás  
+  - 4–6 ökör szükséges  
+- Nagyállattartás elterjedése  
+- **Új fogatolás:** szügyhám a nyakhám helyett  
 
-**Központ:** udvarház (X. századtól fából/kőből épített vár)
-
-**Önellátás**: az uradalomhoz tartozó parasztok termelték meg a szükséges mezőgazdasági, kézművesipari termékeket
-
-Társadalmi felépítés
 ---
 
-A földesurak igyekeztek királyi jogok alóli mentességet szerezni a birtokaikra. Ha ez sikerült, akkor mentesült a királynak befizetendő adó alól, továbbá királyi jogokat gyakorolhatott a földesúr. (Bíráskodás, piac, vám, bánya)
+### 4. AZ URADALOM FOGALMA ÉS JELLEMZŐI
+- **Uradalom:** nagy kiterjedésű, nem feltétlenül összefüggő földbirtok  
+  - falvak, szántók, erdők, legelők  
+  - igazgatási és bíráskodási jogkör  
+- **Központ:** udvarház (X. századtól vár)  
+- **Önellátó gazdálkodás:**  
+  - mezőgazdasági és kézműves termelés helyben  
 
-**Magánegyház**: a földesúr alapította és ellenőrizte az uradalom területén lévő templomokat, kolostorokat.
-
-A nemesi földbirtokos réteg mellett kialakult a dolgozók rendje is (lesüllyedő szabadokból, coloniusokból és felszabadított rabszolgákból)
-
-Nyugat-Európában a XI. századra alakult ki a jobbágyság is, jogaik:
-- Örökíthető telek (tulaj: földesúr)
-- Szolgáltatásokkal tartozott a földesúrnak
-- Személyében függtek a földesúrtól (bíráskodott fölötte, engedély kellett pl. a házassághoz)
-- Szabad költözés
-
-Uradalom felépítése
 ---
 
-3 rész:
-- Jobbágyok parcellái (a jobbágyok saját maguk művelhették, termelhettek rajta)
-- A földesúr saját birtoka (a jobbágyok a robot során művelték)
-- Közös használatú terület (pl. erdő, mező, folyó, tó)
+### 5. AZ URADALOM FELÉPÍTÉSE
+- Az uradalom három részből állt:
+  1. **Jobbágytelkek** – a jobbágy saját megélhetésére  
+  2. **Allódium (földesúri birtok)** – robotmunkával művelték  
+  3. **Közös használatú területek** – erdő, legelő, víz  
 
-Kötelezettségek a földért cserébe:
-- Terményhányad
-- Adó
-- Ajándék
-- Robot
+- A szántóföldeket **dűlőkre** osztották  
+- A parcellákat sorsolással kapták a jobbágyok  
+- Egy dűlőn belül azonos nyomásrendszer volt kötelező
 
+---
+
+### 6. TÁRSADALMI VISZONYOK
+
+#### 6.1 Földesurak
+- Törekedtek a **királyi jogok alóli mentességre** (immunitás)
+- Jogok:
+  - bíráskodás  
+  - piac- és vámtartás  
+  - bányajog  
+- **Magánegyház:**  
+  - a földesúr alapította és ellenőrizte a templomokat, kolostorokat  
+
+---
+
+#### 6.2 Jobbágyság kialakulása és jogállása
+- A XI. századra alakult ki  
+- Eredete:
+  - lesüllyedő szabadok  
+  - coloniusok  
+  - felszabadított rabszolgák  
+
+**Jobbágyok jogai:**
+- örökíthető telek (a föld tulajdonosa a földesúr)  
+- saját gazdaság  
+- szabad költözés  
+
+**Korlátok:**
+- személyes függés a földesúrtól  
+- a földesúr bíráskodott felette  
+- engedélyhez kötött házasság  
+
+---
+
+### 7. A JOBBÁGYOK KÖTELEZETTSÉGEI
+- **Terményhányad**  
+- **Adó**  
+- **Ajándék**  
+- **Robot** – munkavégzés a földesúri birtokon  
+
+---
+
+### 8. ÖSSZEGZÉS
+- A középkori uradalom a **feudális gazdaság alapegysége** volt  
+- A földbirtok hatalmat, jogokat és jövedelmet biztosított  
+- A jobbágy–földesúr viszony kölcsönös, de **egyenlőtlen** kapcsolat  
+- Az uradalmi rendszer hosszú időre meghatározta Európa társadalmi és gazdasági fejlődését
