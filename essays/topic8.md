@@ -1,1 +1,0 @@
-Géza és I. (Szent) István államszervező tevékenysége, a földbirtokrendszer és a vármegyeszervezet
