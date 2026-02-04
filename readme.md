@@ -16,7 +16,7 @@
 | 1 | Mohamed tanításai és a Korán; az arab hódítás és feltartóztatása Európában | ✅ | [Megnyitás](./essays/middle_age/1.md) |
 | 2 | Az egyházi hierarchia, az egyházi intézményrendszer,  a szerzetesség Európában és az Árpád-kori Magyarországon | ✅ | [Megnyitás](./essays/middle_age/2.md) |
 | 3 | Román, gótikus és reneszánsz építészet – európai és magyar példák | ✅ | [Megnyitás](./essays/middle_age/3.md) |
-| 4 | A honfoglalás okai és menete, a kalandozások/támadó hadjáratok | | [Megnyitás](./esszek/4.md) |
+| 4 | A honfoglalás okai és menete, a kalandozások/támadó hadjáratok | ✅ | [Megnyitás](./essays/middle_age/4.md) |
 | 5 | Az Aranybulla legfontosabb elemei | | [Megnyitás]() |
 | 6 | Luxemburgi Zsigmond, Hunyadi János és Hunyadi Mátyás törökellenes harcai | | [Megnyitás]() |
 
