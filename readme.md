@@ -18,14 +18,14 @@
 | 3 | Román, gótikus és reneszánsz építészet – európai és magyar példák | ✅ | [Megnyitás](./essays/middle_age/3.md) |
 | 4 | A honfoglalás okai és menete, a kalandozások/támadó hadjáratok | ✅ | [Megnyitás](./essays/middle_age/4.md) |
 | 5 | Az Aranybulla legfontosabb elemei | ✅ | [Megnyitás](./essays/middle_age/5.md) |
-| 6 | Luxemburgi Zsigmond, Hunyadi János és Hunyadi Mátyás törökellenes harcai | ✅ | [Megnyitás]() |
+| 6 | Luxemburgi Zsigmond, Hunyadi János és Hunyadi Mátyás törökellenes harcai | ✅ | [Megnyitás](./essays/middle_age/6.md) |
 
 ### 3. A kora újkor
 
 | # | Esszé címe | Állapot | Link |
 |:--|:-----------------------------|:-------:|:----:| 
-| 1 | Az ellenreformáció, a katolikus megújulás és a barokk Európában és Magyarországon | | [Megnyitás](./esszek/3.md) |
-| 2 | A mohácsi csata és közvetlen előzményei, a kettős királyválasztás | | [Megnyitás](./esszek/4.md) |
+| 1 | Az ellenreformáció, a katolikus megújulás és a barokk Európában és Magyarországon | ✅ | [Megnyitás](./essays/early_modern_age/1.md) |
+| 2 | A mohácsi csata és közvetlen előzményei, a kettős királyválasztás | ✅ | [Megnyitás](./esssays/early_modern_age/2.md) |
 | 3 | Az ország három részre szakadása; a várháborúk (1541–1568) | | [Megnyitás](./esszek/4.md) |
 | 4 | Erdély sajátos etnikai és vallási helyzete  | |[Megnyitás](./esszek/4.md) |
 | 5 | A Rákóczi-szabadságharc okai, céljai, fordulópontjai és a szatmári béke | | [Megnyitás](./esszek/4.md) |
