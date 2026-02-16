@@ -65,7 +65,7 @@
 | 1 | A szovjet–amerikai szembenállás, a két Németország létrejötte, a két világrend jellemzői |  | [Megnyitás](./esszek/egyiptom.md) |
 | 2 | Németország újraegyesítése, a Szovjetunió felbomlása, a kommunista diktatúrák bukása Közép-Európában | | [Megnyitás](./esszek/2.md) | 
 | 3 | A forradalom okai és céljai a kormánypolitika változásai, a szabadságharc és leverése, a megtorlás | ✅ | [Megnyitás](./esszek/4.md) |
-| 4 | A rendszerváltoztatás (1989–1991). A piacgazdaságra való áttérés, gazdasági szerkezetváltás, privatizáció, a külföldi tőke szerepe, a külkereskedelem átalakulása | | [Megnyitás]() |
+| 4 | A rendszerváltoztatás (1989–1991). A piacgazdaságra való áttérés, gazdasági szerkezetváltás, privatizáció, a külföldi tőke szerepe, a külkereskedelem átalakulása | ✅ | [Megnyitás](./essays/cold_war/4.md) |
 
 ### 7. A jelenkor
 
