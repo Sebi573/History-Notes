@@ -29,7 +29,7 @@
 | 3 | Az ország három részre szakadása; a várháborúk (1541–1568) | ✅ | [Megnyitás](./essays/early_modern_age/4.md) |
 | 4 | Erdély sajátos etnikai és vallási helyzete  | ✅ |[Megnyitás](./essays/early_modern_age/5.md) |
 | 5 | A Rákóczi-szabadságharc okai, céljai, fordulópontjai és a szatmári béke | | [Megnyitás](./esszek/4.md) |
-| 6 | Magyarország újranépesülése és újranépesítése | | [Megnyitás]() |
+| 6 | Magyarország újranépesülése és újranépesítése | ✅ | [Megnyitás]() |
 | 7 | A brit alkotmányos monarchia és az amerikai köztársaság működése | | [Megnyitás]() |
 | 8 | A felvilágosodás államelméletei; az Emberi és polgári jogok nyilatkozata | | [Megnyitás]() |
 
