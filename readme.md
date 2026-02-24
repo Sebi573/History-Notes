@@ -31,7 +31,7 @@
 | 5 | A Rákóczi-szabadságharc okai, céljai, fordulópontjai és a szatmári béke | | [Megnyitás](./esszek/4.md) |
 | 6 | Magyarország újranépesülése és újranépesítése | ✅ | [Megnyitás]() |
 | 7 | A brit alkotmányos monarchia és az amerikai köztársaság működése | | [Megnyitás]() |
-| 8 | A felvilágosodás államelméletei; az Emberi és polgári jogok nyilatkozata | | [Megnyitás]() |
+| 8 | A felvilágosodás államelméletei; az Emberi és polgári jogok nyilatkozata | ✅ | [Megnyitás](./essays/early_modern_age/8.md) |
 
 ### 4. Az újkor
 
