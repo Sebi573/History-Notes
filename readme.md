@@ -37,7 +37,7 @@
 
 | # | Esszé címe | Állapot | Link |
 |:--|:-----------------------------|:-------:|:----:|
-| 1 | Új eszmék: liberalizmus, nacionalizmus, konzervativizmus |  | [Megnyitás](./esszek/egyiptom.md) |
+| 1 | Új eszmék: liberalizmus, nacionalizmus, konzervativizmus | ✅ | [Megnyitás](./essays/modern_age/1.md) |
 | 2 | Az ipari forradalom első hulláma: textilipar, közlekedés, gyáripar | | [Megnyitás](./esszek/2.md) | 
 | 3 | A reformkor fő kérdései (a magyar nyelv ügye, a jobbágykérdés, a polgári alkotmányosság kérdése), Széchenyi és Kossuth programja és vitája | | [Megnyitás](./esszek/3.md) |
 | 4 | A pesti forradalom és az áprilisi törvények | | [Megnyitás](./esszek/4.md) |
@@ -78,3 +78,26 @@
 
 
 ## 🗣️ Szóbeli érettségi tételek
+
+| # | Tétel címe | Állapot | Link |
+|:--|:-----------------------------|:-------:|:----:|
+| 1 | A királyi hatalom újbóli megszilárdítása Anjou I. Károly idején, a visegrádi királytalálkozó | ✅ | [Megnyitás](./final_exam/topic1.md) |
+| 2 | Az uradalom, a földbirtokosok és jobbágyok kötelességei és jogai | ✅ | [Megnyitás](./final_exam/topic2.md) | 
+| 3 | A portugál és spanyol felfedezések, a korai kapitalizmus (árforradalom, manufaktúrák, bankok és tőzsde, a jobbágyrendszer átalakulása)  | | [Megnyitás](./esszek/4.md) |
+| 4 | A trianoni békediktátum születése, tartalma és következményei | ✅ | [Megnyitás](./final_exam/topic4.md) |
+| 5 | A középkori város és lakói, a város kiváltságai, a céhek, a helyi és távolsági kereskedelem | | |
+| 6 | IV. Béla uralkodása: tatárjárás és újjáépítés | | |
+| 7 | A pártállam, a téeszesítés, a tervgazdaság, a kultúrpolitika, az elnyomás változó formái – a kádári alku | ✅ | |
+| 8 | Géza és I. (Szent) István államszervező tevékenysége, a földbirtokrendszer és a vármegyeszervezet | ✅ | |
+| 9 | Hunyadi Mátyás: a központosított királyi hatalom, jövedelmek és kiadások, birodalomépítő tervek | | |
+| 10 | A magyarországi nemzetiségek és a cigányság helyzete napjainkban (demográfia, kisebbségi jogok, oktatás) | | |
+| 11 | Oktatás és kultúrpolitika Magyarországon ( a két világháború közti Magyarországon ) | ✅ | [Megnyitás](./final_exam/topic11.md) |
+| 12 | A Rákosi-diktatúra: a pártállam, a terror, egyházüldözés, koncepciós perek, államosítás és kollektivizálás, erőltetett iparosítás, propaganda és mindennapok a diktatúra idején | ✅ | [Megnyitás](./final_exam/topic12.md) |
+| 13 | A reformáció, a protestáns egyházak megszerveződése és a protestantizmus elterjedése Európában és Magyarországon | | |
+| 14 | Mária Terézia és II. József reformjai | | |
+| 15 | A kommunista Szovjetunió | | |
+| 16 | A nemzetiszocialista Németország | | |
+| 17 | A második világháború kitörése, hadviselő felek, a világháború jellemzői (háborús bűnök, polgári célpontok és lakosság elleni erőszak, hátország, ellenállás) | | |
+| 18 | A zsidóság jogfosztásának folyamata és a holokauszt Európában és Magyarországon | | |
+| 19 | A szovjet–amerikai szembenállás, két Németország létrejötte, a két világrend jellemzői | | |
+| 20 | Széchenyi István történelmi portréja | | | 
