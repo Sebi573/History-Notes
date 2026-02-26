@@ -4,14 +4,14 @@
 ### 1. IDŐ- ÉS TÉRBELI ELHELYEZÉS
 - **Időhatár:** 1948 - 1956 (1953-ig Rákosi főtitkár) 
 
----
+
 
 ### 2. ELŐZMÉNYEK - A DIKTATÚRA KIALAKULÁSÁNAK KEZDETE
 - **1947:** kékcédulás szavazást elcsalják a kommunisták, szavazathamisítással 
 - Koalícióba kényszerítik a Kisgazda Pártot, 1948-ra feldarabolják a Szociáldemokrata Pártot
 - **1948. június 12.:** létrejön a Magyar Dolgozók Pártja
 
----
+
 
 ### 3. A DIKTATÚRA MŰKÖDÉSE
 
@@ -21,7 +21,7 @@
 - 1948 karácsony: Mindszenty József hercegprímás őrizetbe vétele
 - Lemondatják, elítélik, megfélemlítik a többi egyház vezetőit is 
 
----
+
 
 #### 3.2 Teljes hatalomátvétel
 
@@ -71,7 +71,7 @@
 - Rákosi 60. születésnapja: versek, dalok
 - Gyermekkortól felnőttkorig a pártideológia
 
----
+
 
 #### 3.6 Lezárás
 

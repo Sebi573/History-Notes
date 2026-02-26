@@ -1,0 +1,26 @@
+## 🧠 ESSZÉVÁZLAT – Cím
+
+### 1. IDŐ- ÉS TÉRBELI ELHELYEZÉS
+- A téma időhatárai:
+- Földrajzi keret:
+
+### 2. KULCSÉVSZÁMOK
+- **1234**: ...
+
+
+### 3. ELŐZMÉNYEK
+- ...
+
+### 4. A TÉMA LÉNYEGI ELEMEI
+
+#### 4.1 Lényegi elem 1
+- ...
+
+
+#### 4.2 Lényegi elem 2
+- ...
+
+
+#### 4.3 Lényegi elem 3
+- ...
+

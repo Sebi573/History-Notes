@@ -1,15 +1,15 @@
 ## 🧠 ESSZÉVÁZLAT – A trianoni békediktátum születése, tartalma és következménye
----
+
 
 ### 1. IDŐ- ÉS TÉRBELI ELHELYEZÉS
 - **Tér:** trianoni Magyarország, Burgenland, Felvidék, Délvidék, Kárpátalja
 
----
+
 
 ### 2. KULCSÉVSZÁMOK
 - **1920. június 4.**: a trianoni békediktátum 
 
----
+
 
 ### 3. ELŐZMÉNYEK
 
@@ -24,7 +24,7 @@
 - Károlyi Mihály megpróbál tárgyalni a nemzetiségekkel, de sikertelen
 - Horthy Miklós bevonulása után a Huszár-kormány meghívót kapott a párizsi békekonferenciára
 
----
+
 
 ### 4. A TÉMA LÉNYEGI ELEMEI
 
@@ -48,7 +48,7 @@
 - Nemzetek Szövetségének megalakítása
 - Kisebbségvédelmi szerződések
 
----
+
 
 #### 4.2 A magyar békedelegáció
 
@@ -64,7 +64,7 @@
 - 1920. május 6-án végleges békefeltételek
 - 1920. június 4-én a Nagy-Trianon palotában írták alá (Benárd Ágoston és Drasche Lázár Alfréd)
 
----
+
 
 #### 4.3 Békeszerződés tartalma
 - Új határok
@@ -74,7 +74,7 @@
 - Jelentős jóvátétel fizetése
 - A békeszerződést Magyarországnak törvénybe kellett foglalni
 
----
+
 
 #### 4.4 A békeszerződés végrehajtása
 

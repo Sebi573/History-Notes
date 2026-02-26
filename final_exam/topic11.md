@@ -4,7 +4,7 @@
 ### 1. IDŐ- ÉS TÉRBELI ELHELYEZÉS
 - **Időhatár:** 1922 - 1931 (Bethlen-kormány)
 
----
+
 
 ### 2. ELŐZMÉNYEK
 - Bethlen-kormány vallás- és közoktatásügyi minisztere: Klebelsberg Kunó
@@ -13,7 +13,7 @@
 - Falvanként egy-két tanító, kevés tanterem
 - Kunó: "A magyar hazát nem a kard, hanem a kultúra tarthatja meg és teheti naggyá."
 
----
+
 
 ### 3. OKTATÁS ÉS KULTÚRPOLITIKA
 
@@ -26,7 +26,7 @@
 - Népiskola-építési program
 - Infrastruktúrális fejlődés: tanítói lakások, elérhetőbb oktatás, több tanterem
 - **Neonacionalizmus:** a nyugati államokhoz való felzárkózás alapja a tudományos teljesítmény
----
+
 
 #### 3.2 Fejlesztések eredményei
 
@@ -49,7 +49,7 @@
 - Magyar tudósok hazahívása pl. Szent-Györgyi Albert
 - Új tudományos intézetek pl. Magyar Biológiai Kutatóintézet
 
----
+
 
 #### 3.5 Lezárás
 

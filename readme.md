@@ -85,7 +85,7 @@
 | 2 | Az uradalom, a földbirtokosok és jobbágyok kötelességei és jogai | ✅ | [Megnyitás](./final_exam/topic2.md) | 
 | 3 | A portugál és spanyol felfedezések, a korai kapitalizmus (árforradalom, manufaktúrák, bankok és tőzsde, a jobbágyrendszer átalakulása)  | | [Megnyitás](./esszek/4.md) |
 | 4 | A trianoni békediktátum születése, tartalma és következményei | ✅ | [Megnyitás](./final_exam/topic4.md) |
-| 5 | A középkori város és lakói, a város kiváltságai, a céhek, a helyi és távolsági kereskedelem | | |
+| 5 | A középkori város és lakói, a város kiváltságai, a céhek, a helyi és távolsági kereskedelem | ✅ | [Megnyitás](./final_exam/topic5.md) |
 | 6 | IV. Béla uralkodása: tatárjárás és újjáépítés | | |
 | 7 | A pártállam, a téeszesítés, a tervgazdaság, a kultúrpolitika, az elnyomás változó formái – a kádári alku | ✅ | |
 | 8 | Géza és I. (Szent) István államszervező tevékenysége, a földbirtokrendszer és a vármegyeszervezet | ✅ | |

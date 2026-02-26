@@ -5,9 +5,8 @@
 - **Időhatár:** kora középkortól a XI–XIII. századig  
 - **Tér:** elsősorban Nyugat-Európa
 
----
 
-### 2. ELŐZMÉNYEK – A FEUDÁLIS RENDSZER KIALAKULÁSA
+### 3. ELŐZMÉNYEK – A FEUDÁLIS RENDSZER KIALAKULÁSA
 - A feudális társadalom az **antik római** és a **germán világ** találkozásából jött létre  
 
 **Germán örökség:**
@@ -23,11 +22,11 @@
 - A földbirtok lett a gazdaság és a hatalom alapja  
 - A hűbérúr földet adott → a hűbéres katonai szolgálattal tartozott
 
----
 
-### 3. A MEZŐGAZDASÁGI TERMELÉS FEJLŐDÉSE
 
-#### 3.1 Művelési módok
+### 4. A MEZŐGAZDASÁGI TERMELÉS FEJLŐDÉSE
+
+#### 4.1 Művelési módok
 - **Ókorban:** legelőváltó gazdálkodás  
   - 10–30 év művelés után a földet elhagyták  
 - **VIII. századtól változás**:
@@ -49,18 +48,18 @@
 - jobb földkihasználás  
 - népességnövekedés  
 
----
 
-#### 3.2 Technikai újítások
+
+#### 4.2 Technikai újítások
 - **Nehézeke** megjelenése:
   - mélyebb talajforgatás  
   - 4–6 ökör szükséges  
 - Nagyállattartás elterjedése  
 - **Új fogatolás:** szügyhám a nyakhám helyett  
 
----
 
-### 4. AZ URADALOM FOGALMA ÉS JELLEMZŐI
+
+#### 4.3. Az uradalom fogalma és jellemzői
 - **Uradalom:** nagy kiterjedésű, nem feltétlenül összefüggő földbirtok  
   - falvak, szántók, erdők, legelők  
   - igazgatási és bíráskodási jogkör  
@@ -68,9 +67,9 @@
 - **Önellátó gazdálkodás:**  
   - mezőgazdasági és kézműves termelés helyben  
 
----
 
-### 5. AZ URADALOM FELÉPÍTÉSE
+
+#### 4.4. Az uradalom felépítése
 - Az uradalom három részből állt:
   1. **Jobbágytelkek** – a jobbágy saját megélhetésére  
   2. **Allódium (földesúri birtok)** – robotmunkával művelték  
@@ -80,49 +79,46 @@
 - A parcellákat sorsolással kapták a jobbágyok  
 - Egy dűlőn belül azonos nyomásrendszer volt kötelező
 
----
 
-### 6. TÁRSADALMI VISZONYOK
 
-#### 6.1 Földesurak
-- Törekedtek a **királyi jogok alóli mentességre** (immunitás)
-- Jogok:
-  - bíráskodás  
-  - piac- és vámtartás  
-  - bányajog  
-- **Magánegyház:**  
-  - a földesúr alapította és ellenőrizte a templomokat, kolostorokat  
+#### 4.5. Társadalom
 
----
+- **Földesurak**:
+  - Törekedtek a **királyi jogok alóli mentességre** (immunitás)
+  - Jogok:
+    - bíráskodás  
+    - piac- és vámtartás  
+    - bányajog  
+  - **Magánegyház:**  
+    - a földesúr alapította és ellenőrizte a templomokat, kolostorokat  
 
-#### 6.2 Jobbágyság kialakulása és jogállása
-- A XI. századra alakult ki  
-- Eredete:
-  - lesüllyedő szabadok  
-  - coloniusok  
-  - felszabadított rabszolgák  
 
-**Jobbágyok jogai:**
-- örökíthető telek (a föld tulajdonosa a földesúr)  
-- saját gazdaság  
-- szabad költözés  
+- **Jobbágyság**:
+  - A XI. századra alakult ki  
+  - Eredete:
+    - lesüllyedő szabadok  
+    - coloniusok
+    - felszabadított rabszolgák  
 
-**Korlátok:**
-- személyes függés a földesúrtól  
-- a földesúr bíráskodott felette  
-- engedélyhez kötött házasság  
+- **Jobbágyok jogai:**
+  - örökíthető telek (a föld tulajdonosa a földesúr)  
+  - saját gazdaság  
+  - szabad költözés  
 
----
+- **Korlátok:**
+  - személyes függés a földesúrtól  
+  - a földesúr bíráskodott felette  
+  - engedélyhez kötött házasság  
 
-### 7. A JOBBÁGYOK KÖTELEZETTSÉGEI
+
+
+#### 4.6 A jobbágyok kötelezettségei
 - **Terményhányad**  
 - **Adó**  
 - **Ajándék**  
 - **Robot** – munkavégzés a földesúri birtokon  
 
----
-
-### 8. ÖSSZEGZÉS
+### 4.7 ÖSSZEGZÉS
 - A középkori uradalom a **feudális gazdaság alapegysége** volt  
 - A földbirtok hatalmat, jogokat és jövedelmet biztosított  
 - A jobbágy–földesúr viszony kölcsönös, de **egyenlőtlen** kapcsolat  

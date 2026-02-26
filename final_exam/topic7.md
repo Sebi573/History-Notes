@@ -6,7 +6,7 @@
 - **1958** – Nagy Imre kivégzése
 - **1968** – Új gazdasági mechanizmus 
 
----
+
 
 ### 3. ELŐZMÉNYEK
 - Magyarország a Kádár-korszakban a szovjet tömb része volt
@@ -18,7 +18,7 @@
 - Legfontosabb testület: **Politikai Bizottság**
 - **MSZMP, KB, PB** vezetője: Kádár János  
 
----
+
 
 ### 4. A TÉMA LÉNYEGI ELEMEI
 
@@ -27,7 +27,7 @@
 - *"Aki nincs ellenünk, az velünk van"* elv
 - Életszínvonal növelése
 - **Paternalizmus:** Kádár töltötte be az atyai szerepet, aki gondoskodik a társadalomról 
----
+
 
 #### 4.2 Mezőgazdaság
 - Eltörölték a beszolgáltatást, helyette újra **kollektivizálás**
@@ -36,7 +36,7 @@
     - a megtermelt javai fölött a termelő szabadon rendelkezett
     - kb. 20%-át adta a termelési értéknek
 
----
+
 
 #### 4.3 Ipar
 - Energiaprogram: szén- és kőolajbányászat
@@ -44,7 +44,7 @@
 - Ipar korszerűsítése
 - Szovjet függőség (olcsó nyersanyag vásárlás)
 
----
+
 
 #### 4.5 Társadalmi változások
 - Növekedett a munkásság
