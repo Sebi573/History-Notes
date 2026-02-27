@@ -1,81 +1,65 @@
-## 🧠 ESSZÉVÁZLAT – A középkori város és lakói, a város kiváltságai, a céhek, a helyi és távolsági kereskedelem
+## 🧠 ESSZÉVÁZLAT – IV. Béla uralkodása: tatárjárás és újjáépítés
 
 ### 1. IDŐ- ÉS TÉRBELI ELHELYEZÉS
-- **Időhatár:** 476 - 1492
+- A téma időhatárai: **1235 - 1270**
 
+### 3. ELŐZMÉNYEK
+- IV. Béla szemben állt apja birtokeladományozási és regálékon alapuló politikájával
+- Királyi birtokrendszer restaurációja
+- 1239-ben befogadta a kunokat, akik sok kárt okoztak
+- Komoly ellenállás a bárókkal szemben
 
-### 2. ELŐZMÉNYEK – A VÁROSOK KIALAKULÁSA
+### 4. A TÉMA LÉNYEGI ELEMEI
 
-- Mezőgazdasági árutermelés kibontakozása, kereskedelem fellendülése
-- Egykori római kori települések, várak, egyházi centrumok helyén; folyók, utak találkozásánál
-- X - XIII. század között Észak-Itáliában, Franciaországban, Angliában jöttek létre 
+#### 4.1 A tatár támadás
+- **1236-ban Julianus domonkos rendi szerzetes hírt hozott a várható tatár támadásról**
+- Batu kán meghódolásra szólította fel IV. Bélát
+- 1241 márciusában a fősereg a Vereckei-hágónál elsöpörte Tomaj Dénes nádor seregét
+- A tatárok nagyon gyorsan vonultak át az alföldi területeken
+- Kunok árulására fogták a gyors tatár támadást
 
+#### 4.2 A muhi csata
+- **Döntő ütközet: 1241. április 10 - 11** (Muhi)
+- Magyar vereség, IV. Béla nyugatra menekül
+- Dalmáciában lelt menedékre
+- A tatárok Dunántúlon pusztítottak, ahol azonban várakat nem tudtak bevenni
+- **Váratlanul kivonultak a tatárok**
+    - Ögödej nagykán meghalt (legvalószínűbb)
+    - A tatárok csak felmérték az erőviszonyokat
 
-### 3. A VÁROSOK MŰKÖDÉSE
+- **Vereség okai:**
+    - Stratégiai hibák
+    - Ellentét a király és a főurak között
+    - Felbomlóban lévő királyi hadszervezet
 
-#### 3.1 Városi jogok
+#### 4.3 Az ország újjáépítése
+- Feltételekkel adományozott birtokokat (hadsereg)
+- Nemesi jogokat adott a várjobbágyoknak is
+- Várak építése, városfalak építése
+- Hadsereg fejlesztése, nehézlovasság
+- Szövetségi viszony a szomszédos államokkal
 
-- **Önkormányzat joga:** a városlakók közössége harcolta ki
-- **Bíráskodási jog:** szabad bíróválasztás
-- **Gazdasági jogok:** piactartás, egyösszegű adó
-- **Birtokjog:** falvak, jobbágyak
-- **Szabad plébánosválasztás**
-- Nyugat-Európában a rendi monarchiákban a király a rendi gyűlésbe hívta a városi polgárság képviselőit is
-- Nagy befolyásra tettek szert egyes családok pl. Firenze - Medici
+#### 4.4 Politikai és társadalmi következmények
 
-#### 3.2 Társadalom
+- Létrejött a nagy területeket birtokló bárói réteg
+- Familiaritás rendszere:
+    - Élethosszig tartó szolgálatot vállaltak a várjobbágyok és szerviensek
+    - Békeidőben a birtokot igazgatták, háborúban katonáskodtak
 
-- Városlakó = szabad ember
-- "A városi levegő szabaddá tesz"
-- Város irányítása: patríciusok = gazdag polgárcsaládok
-- Polgárjog nélküli szegények: alkalmi munkák
+- Jogilag egységesült a jobbágyság, több jogot harcoltak ki pl. szabad költözés
 
+#### 4.5 Béla utolsó évei
 
+- 1257-ben idősebb fia, István Erdélyt vezette
+- Kisebbik fia, István herceg háborúzni kezdett apjával (a bárók segítségével)
+- 1267-ben Aranybulla megújítása
+    - Politikai erőt kaptak a szerviensek és a várjobbágyok
+    - A nemesek 2-3 képviselő útján vehettek részt a politikában
 
-#### 3.3 A város felépítése
-- Fallal vették körül
-- Szűk utcák, rossz utak
-- Nem volt szennyvíz-elvezetés
-- Kedvezőtlen higiéniai viszonyok
-- Központ: piactér
-- Faépületek veszélyesek
+- II. Frigyes megpróbált nyugat-magyarországi területeket elfoglalni, de sikertelen volt
+- A cseh király szintén próbált támadni, azonban békét kötöttek
 
+- IV. Bélát 1270-ben V. István, őt pedig Kun László követte a trónon
+- A XIII. század végén a bárói csoportok egymással harcoltak
+- A nemesség alsóbb rétegei egyre többször vettek részt rendi gyűléseken
 
-
-#### 3.4 A céhek kialakulása
-
-- Azonos szakmát űzők érdekvédelmi szervezetei
-- Előkép: vallásos egyesületek (gildék)
-- Jellemzői:
-    - Szakmai szervezet
-    - Korlátozták a versenyt pl. árak maximalizálása, éjszakai munka tiltása, létszámkorlátozás
-    - Mesterek számának korlátozása, feltételek
-    - Védelmet, segítséget biztosított tagjainak pl. közös kassza
-    - Nem volt munkamegosztás
-
-- Céhen kívüli iparos = kontár
-
-#### 3.5 Vásár és piac
-
-- Városi jog volt
-- Árumegállítási jog (ideiglenesen kényszerítették a városba való betérésre)
-- Országos vásár és heti piac
-
-#### 3.6 Tengeri kereskedelem
-
-- Luxusáru kereskedelem, vízi úton
-- Levantei kereskedelem:
-    - Selyem, gyapot, fűszerek
-    - Cserébe nemesfémek, nyersanyagok Ázsiába
-    - Arabok, Bizánciak és itáliai kereskedőállamok felügyelték
-
-- Hanza kereskedelmi útvonal:
-    - Hering, prém, gabona, iparcikkek (posztó)
-    - Skandináv népek, később észak-német városok és a flandriai városok uralták
-    - XIV. században alakult ki a városszövetség, amit Hanzának nevezünk
-
-#### 3.7 Szárazföldi kereskedelem
-
-- Észak-Itáliai kereskedővárosok, flandriai posztóvárosok
-- Főbb útvonalak: folyamok
-- Központ: Champagne
