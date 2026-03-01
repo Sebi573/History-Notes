@@ -4,37 +4,31 @@
 ### 1. IDŐ- ÉS TÉRBELI ELHELYEZÉS
 - **Időhatár:** 1948 - 1956 (1953-ig Rákosi főtitkár) 
 
-
-
 ### 2. ELŐZMÉNYEK - A DIKTATÚRA KIALAKULÁSÁNAK KEZDETE
 - **1947:** kékcédulás szavazást elcsalják a kommunisták, szavazathamisítással 
 - Koalícióba kényszerítik a Kisgazda Pártot, 1948-ra feldarabolják a Szociáldemokrata Pártot
 - **1948. június 12.:** létrejön a Magyar Dolgozók Pártja
-
-
 
 ### 3. A DIKTATÚRA MŰKÖDÉSE
 
 #### 3.1 Egyházellenes politika
 
 - Egyházi iskolák államosítása
-- 1948 karácsony: Mindszenty József hercegprímás őrizetbe vétele
+- `1948` karácsony: Mindszenty József hercegprímás őrizetbe vétele
 - Lemondatják, elítélik, megfélemlítik a többi egyház vezetőit is 
-
-
 
 #### 3.2 Teljes hatalomátvétel
 
 - `1949.` februárjára a Függetlenségi Népfront elfogadja az MDP vezető szerepét
 - 96%-os győzelem (csak az MDP jelöltjeire szavazhattak)
 - **1949. augusztus 18. új alkotmány:**
-    - Alkotmány ünnepe (aug. 20.)
+    - Alkotmány ünnepe (`aug. 20.`)
     - Szovjet minta
     - Elnöki Tanács - rendeleti kormányzás
     - Országgyűlés szerepe névleges, egyhangú szavazások
 
 - **Terror:**
-    - ÁVH
+    - ÁVH (vezetője: Péter Gábor)
     - Besúgóhálózat
     - Kitelepítések, internálások
     - Munkatáborok: bírói ítélet nélkül, kényszermunka
@@ -64,17 +58,11 @@
 #### 3.5 Mindennapok, propaganda:
 - Totális diktatúra kiépítése
 - Magánélet befolyásolása
+- Mindenki számára volt munkahely, de alacsony bérek
 - Nem volt szabad véleménynyílvánítás
 - Személyi kultusz
 - Romló életszínvonal
 - Mindig tapsolni kellett
 - Rákosi 60. születésnapja: versek, dalok
 - Gyermekkortól felnőttkorig a pártideológia
-
-
-
-#### 3.6 Lezárás
-
-A Rákosi-rendszer berendezkedését, mindennapra tett hatását számos dokumentum, visszaemlékezés őrzi, azonban mindenképpen szeretném megemlíteni Bacsó Péter: A tanú című filmjét, amely bár szatiríkusan, de valósághűen ábrázolja ezt a korszakot.
-
 
