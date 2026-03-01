@@ -25,7 +25,7 @@
 
 #### 3.2 Teljes hatalomátvétel
 
-- 1949. februárjára a Függetlenségi Népfront elfogadja az MDP vezető szerepét
+- `1949.` februárjára a Függetlenségi Népfront elfogadja az MDP vezető szerepét
 - 96%-os győzelem (csak az MDP jelöltjeire szavazhattak)
 - **1949. augusztus 18. új alkotmány:**
     - Alkotmány ünnepe (aug. 20.)
