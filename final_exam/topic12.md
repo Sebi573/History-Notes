@@ -44,12 +44,14 @@
 - **Kollektivizálás = téeszesítés:**
     - Mezőgazdaságban erősen jelen volt
     - Sikertelen kollektivizálás: erőszakosan akarták belekényszeríteni a parasztságot
+    - Vagyonosabb gazdákról **kuláklista**
     - Beszolgáltatási kötelezettség
     - Padlássöprés
     - Klímaidegen növények betelepítése
 
 #### 3.4 Ipar:
-- Három éves terv, majd öt éves terv
+- Könnyűipar háttérbe szorul, nehézipar és alapanyagtermelés fejlesztése
+- Három éves terv, majd öt éves terv (1950-től)
 - Sztahanovista mozgalmak
 - Nehézipari termelés 3x, DE nem hatékony!
 - "Vas és acél országa"
