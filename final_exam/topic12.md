@@ -50,6 +50,7 @@
     - Klímaidegen növények betelepítése
 
 #### 3.4 Ipar:
+- Tervgazdálkodás
 - Könnyűipar háttérbe szorul, nehézipar és alapanyagtermelés fejlesztése
 - Három éves terv, majd öt éves terv (1950-től)
 - Sztahanovista mozgalmak
