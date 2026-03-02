@@ -88,7 +88,11 @@
 - **Lengyelek:** I. Boleszláv lengyel király támadásának hárítása után rendeződtek a kapcsolatok
 - **Bizánc:** Imre herceg házassága, a velencei szövetség helyreállította a kapcsolatokat
 
+#### 4.7 Trónöröklés
 
+- Imre, aki a trónörökös lett volna 1031-ben egy vadászaton meghalt
+- Unokaöccse, Vazul nem volt alkalmas, ezért Orseoló Pétert nevezte ki utódjának
+- Vazult merényleti kísérlete miatt megvakíttatta
 
 
 ### 5. ÖSSZEGZÉS
