@@ -82,7 +82,7 @@
 | # | Tétel címe | Állapot | Link |
 |:--|:-----------------------------|:-------:|:----:|
 | 1 | A királyi hatalom újbóli megszilárdítása Anjou I. Károly idején, a visegrádi királytalálkozó | ✅ | [Megnyitás](./final_exam/topic1.md) |
-| 2 | Az uradalom, a földbirtokosok és jobbágyok kötelességei és jogai | ✅ | [Megnyitás](./final_exam/topic2.md) | 
+| 2 | Az uradalom, a földbirtokosok és jobbágyok kötelességei és jogai | ✅ | [Megnyitás](./final_exam/topic2.md) |
 | 3 | A portugál és spanyol felfedezések, a korai kapitalizmus (árforradalom, manufaktúrák, bankok és tőzsde, a jobbágyrendszer átalakulása)  | ✅ | [Megnyitás](./esszek/4.md) |
 | 4 | A trianoni békediktátum születése, tartalma és következményei | ✅ | [Megnyitás](./final_exam/topic4.md) |
 | 5 | A középkori város és lakói, a város kiváltságai, a céhek, a helyi és távolsági kereskedelem | ✅ | [Megnyitás](./final_exam/topic5.md) |
@@ -98,6 +98,6 @@
 | 15 | A kommunista Szovjetunió | | |
 | 16 | A nemzetiszocialista Németország | | |
 | 17 | A második világháború kitörése, hadviselő felek, a világháború jellemzői (háborús bűnök, polgári célpontok és lakosság elleni erőszak, hátország, ellenállás) | | |
-| 18 | A zsidóság jogfosztásának folyamata és a holokauszt Európában és Magyarországon | | |
+| 18 | A zsidóság jogfosztásának folyamata és a holokauszt Európában és Magyarországon | ✅ | [Megnyitás](./final_exam/topic18.md) |
 | 19 | A szovjet–amerikai szembenállás, két Németország létrejötte, a két világrend jellemzői | | |
-| 20 | Széchenyi István történelmi portréja | | | 
+| 20 | Széchenyi István történelmi portréja | | |
