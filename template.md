@@ -1,7 +1,7 @@
 ## 🧠 ESSZÉVÁZLAT – Cím
 
 ### 1. IDŐ- ÉS TÉRBELI ELHELYEZÉS
-- A téma időhatárai:
+- Időhatár:
 - Földrajzi keret:
 
 ### 2. KULCSÉVSZÁMOK
