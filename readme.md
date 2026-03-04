@@ -38,8 +38,8 @@
 | # | Esszé címe | Állapot | Link |
 |:--|:-----------------------------|:-------:|:----:|
 | 1 | Új eszmék: liberalizmus, nacionalizmus, konzervativizmus | ✅ | [Megnyitás](./essays/modern_age/1.md) |
-| 2 | Az ipari forradalom első hulláma: textilipar, közlekedés, gyáripar | | [Megnyitás](./esszek/2.md) |
-| 3 | A reformkor fő kérdései (a magyar nyelv ügye, a jobbágykérdés, a polgári alkotmányosság kérdése), Széchenyi és Kossuth programja és vitája | | [Megnyitás](./esszek/3.md) |
+| 2 | Az ipari forradalom első hulláma: textilipar, közlekedés, gyáripar | ✅ | [Megnyitás](./esszek/2.md) |
+| 3 | A reformkor fő kérdései (a magyar nyelv ügye, a jobbágykérdés, a polgári alkotmányosság kérdése), Széchenyi és Kossuth programja és vitája | ✅ | [Megnyitás](./esszek/3.md) |
 | 4 | A pesti forradalom és az áprilisi törvények | | [Megnyitás](./esszek/4.md) |
 | 5 | A szabadságharc főbb eseményei: harc a dinasztiával és a nemzetiségekkel, tavaszi hadjárat. Függetlenségi nyilatkozat, a szabadságharc leverése | | [Megnyitás](./esszek/4.md) |
 | 6 | Az ipari forradalom második hulláma: kutatás és fejlesztés, közlekedés, vegyipar, gépipar, elektronika – a világban és Magyarországon Gazdasági kiegyezés és állami gazdaságpolitika a dualista Magyarországon | | [Megnyitás](./esszek/4.md) |
