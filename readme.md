@@ -40,7 +40,7 @@
 | 1 | Új eszmék: liberalizmus, nacionalizmus, konzervativizmus | ✅ | [Megnyitás](./essays/modern_age/1.md) |
 | 2 | Az ipari forradalom első hulláma: textilipar, közlekedés, gyáripar | ✅ | [Megnyitás](./esszek/2.md) |
 | 3 | A reformkor fő kérdései (a magyar nyelv ügye, a jobbágykérdés, a polgári alkotmányosság kérdése), Széchenyi és Kossuth programja és vitája | ✅ | [Megnyitás](./esszek/3.md) |
-| 4 | A pesti forradalom és az áprilisi törvények | | [Megnyitás](./esszek/4.md) |
+| 4 | A pesti forradalom és az áprilisi törvények | ✅ | [Megnyitás](./esszek/4.md) |
 | 5 | A szabadságharc főbb eseményei: harc a dinasztiával és a nemzetiségekkel, tavaszi hadjárat. Függetlenségi nyilatkozat, a szabadságharc leverése | | [Megnyitás](./esszek/4.md) |
 | 6 | Az ipari forradalom második hulláma: kutatás és fejlesztés, közlekedés, vegyipar, gépipar, elektronika – a világban és Magyarországon Gazdasági kiegyezés és állami gazdaságpolitika a dualista Magyarországon | | [Megnyitás](./esszek/4.md) |
 | 7 | A szocializmus eszméje (marxizmus) | ✅ | [Megnyitás](./essays/modern_age/7.md) |
@@ -62,10 +62,9 @@
 
 | # | Esszé címe | Állapot | Link |
 |:--|:-----------------------------|:-------:|:----:|
-| 1 | A szovjet–amerikai szembenállás, a két Németország létrejötte, a két világrend jellemzői |  | [Megnyitás](./esszek/egyiptom.md) |
-| 2 | Németország újraegyesítése, a Szovjetunió felbomlása, a kommunista diktatúrák bukása Közép-Európában | | [Megnyitás](./esszek/2.md) | 
-| 3 | A forradalom okai és céljai a kormánypolitika változásai, a szabadságharc és leverése, a megtorlás | ✅ | [Megnyitás](./esszek/4.md) |
-| 4 | A rendszerváltoztatás (1989–1991). A piacgazdaságra való áttérés, gazdasági szerkezetváltás, privatizáció, a külföldi tőke szerepe, a külkereskedelem átalakulása | ✅ | [Megnyitás](./essays/cold_war/4.md) |
+| 1 | Németország újraegyesítése, a Szovjetunió felbomlása, a kommunista diktatúrák bukása Közép-Európában | | [Megnyitás](./esszek/2.md) |
+| 2 | A forradalom okai és céljai a kormánypolitika változásai, a szabadságharc és leverése, a megtorlás | ✅ | [Megnyitás](./esszek/4.md) |
+| 3 | A rendszerváltoztatás (1989–1991). A piacgazdaságra való áttérés, gazdasági szerkezetváltás, privatizáció, a külföldi tőke szerepe, a külkereskedelem átalakulása | ✅ | [Megnyitás](./essays/cold_war/4.md) |
 
 ### 7. A jelenkor
 
@@ -99,5 +98,5 @@
 | 16 | A nemzetiszocialista Németország | | |
 | 17 | A második világháború kitörése, hadviselő felek, a világháború jellemzői (háborús bűnök, polgári célpontok és lakosság elleni erőszak, hátország, ellenállás) | | |
 | 18 | A zsidóság jogfosztásának folyamata és a holokauszt Európában és Magyarországon | ✅ | [Megnyitás](./final_exam/topic18.md) |
-| 19 | A szovjet–amerikai szembenállás, két Németország létrejötte, a két világrend jellemzői | | |
+| 19 | A szovjet–amerikai szembenállás, két Németország létrejötte, a két világrend jellemzői | ✅ | |
 | 20 | Széchenyi István történelmi portréja | | |
