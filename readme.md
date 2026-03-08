@@ -42,11 +42,12 @@
 | 3 | A reformkor fő kérdései (a magyar nyelv ügye, a jobbágykérdés, a polgári alkotmányosság kérdése), Széchenyi és Kossuth programja és vitája | ✅ | [Megnyitás](./esszek/3.md) |
 | 4 | A pesti forradalom és az áprilisi törvények | ✅ | [Megnyitás](./esszek/4.md) |
 | 5 | A szabadságharc főbb eseményei: harc a dinasztiával és a nemzetiségekkel, tavaszi hadjárat. Függetlenségi nyilatkozat, a szabadságharc leverése | ✅ | [Megnyitás](./esszek/4.md) |
-| 6 | Az ipari forradalom második hulláma: kutatás és fejlesztés, közlekedés, vegyipar, gépipar, elektronika – a világban és Magyarországon Gazdasági kiegyezés és állami gazdaságpolitika a dualista Magyarországon | | [Megnyitás](./esszek/4.md) |
-| 7 | A szocializmus eszméje (marxizmus) | ✅ | [Megnyitás](./essays/modern_age/7.md) |
-| 8 | A polgári nemzetállam jellemzői, alkotmányosság és jogegyenlőség Németország, az Amerikai Egyesült Államok és Magyarország példáján | | [Megnyitás]() |
-| 9 | A kiegyezés okai, a közös ügyek, a magyar államszervezet | | [Megnyitás]() |
-| 10 | Etnikai viszonyok, zsidó emancipáció, cigányok/romák Magyarországon a dualizmus korában | | [Megnyitás]() |
+| 6 | Az ipari forradalom második hulláma: kutatás és fejlesztés, közlekedés, vegyipar, gépipar, elektronika – a világban és Magyarországon | | [Megnyitás](./esszek/4.md) |
+| 7 | Gazdasági kiegyezés és állami gazdaságpolitika a dualista Magyarországon | | |
+| 8 | A szocializmus eszméje (marxizmus) | ✅ | [Megnyitás](./essays/modern_age/7.md) |
+| 9 | A polgári nemzetállam jellemzői, alkotmányosság és jogegyenlőség Németország, az Amerikai Egyesült Államok és Magyarország példáján | | [Megnyitás]() |
+| 10 | A kiegyezés okai, a közös ügyek, a magyar államszervezet | ✅ | [Megnyitás]() |
+| 11 | Etnikai viszonyok, zsidó emancipáció, cigányok/romák Magyarországon a dualizmus korában | | [Megnyitás]() |
 
 ### 5. A világháborúk kora
 
