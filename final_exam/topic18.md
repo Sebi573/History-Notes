@@ -50,11 +50,13 @@
 
 - Civilek felelőssége is fontos!
 
+- Antifasiszta koalíció felelőssége
+
 
 #### 4.3 A holokauszt utóélete
 
 - Politikai következmény: Izrael állam megalakulása
-- Gyakran előkerülő téma a holokauszttagadás4.4 
+- Gyakran előkerülő téma a holokauszttagadás
 
 #### 4.4 A magyarországi zsidóság az első világháború után
 
