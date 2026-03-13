@@ -6,21 +6,15 @@
 - **Időhatár:** 10–11. század fordulója  
 - **Tér:** Kárpát-medence, kialakuló Magyar Királyság
 
-
-
 ### 2. KULCSÉVSZÁMOK
 - **972–997** – Géza fejedelemsége  
 - **997** – Géza halála, István hatalomra kerülése  
 - **1000/1001** – István koronázása  
 - **1038** – I. István halála  
 
-
-
 ### 3. ELŐZMÉNYEK
 - **972: augsburgi vereség** után Géza követeket küldött I. Ottó német császárhoz
 - Felismerte a **nyugati keresztény állammodell** átvételének szükségességét, ezért megtért
-
-
 
 ### 4. A TÉMA LÉNYEGI ELEMEI
 

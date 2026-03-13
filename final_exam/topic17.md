@@ -54,8 +54,6 @@
   - Sztálingrádi csata: fordulópont a keleti fronton
   - Az USA a háború elején tengeri háborút vívott Japánnal, de a normandiai partraszállással bekapcsolódott a Németország elleni háborúba
 
-
-
 #### 4.2 A háborús gazdaság
 
 - Németország költségvetésének kb. egynegyedét fordította hadi kiadásokra, Japán ennél még többet

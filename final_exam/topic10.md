@@ -52,13 +52,13 @@
 - Öregedő korstruktúra (kivéve a cigányság)
 
 #### 4.2 Kisebbségi jogok
-- **A rendszerváltoztatás után megalkotott kisebbségi törvények meghatározóak**
+- **A rendszerváltoztatás után megalkotott kisebbségi törvények meghatározóak voltak (1993. évi)** 
     - Helyi és országos kisebbségi önkormányzatok
     - Művelődési és oktatási önigazgatás
     - Nyelvhasználat
     - Támogatások és jogvédelem
 
-- `2011. évi CLXXIX.` nemzeti és etnikai kisebbségek helyett nemzetiség kifejezés
+- `2011. évi CLXXIX.` nemzeti és etnikai kisebbségek helyett **nemzetiség** kifejezés
 - **Alaptörvényben rögzített jogok:**
     - Önazonosság
     - Anyanyelvhasználat
