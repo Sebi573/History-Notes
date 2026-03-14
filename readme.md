@@ -63,7 +63,7 @@
 
 | # | Esszé címe | Állapot | Link |
 |:--|:-----------------------------|:-------:|:----:|
-| 1 | Németország újraegyesítése, a Szovjetunió felbomlása, a kommunista diktatúrák bukása Közép-Európában | | [Megnyitás](./esszek/2.md) |
+| 1 | Németország újraegyesítése, a Szovjetunió felbomlása, a kommunista diktatúrák bukása Közép-Európában | ✅ | [Megnyitás](./esszek/2.md) |
 | 2 | A forradalom okai és céljai a kormánypolitika változásai, a szabadságharc és leverése, a megtorlás | ✅ | [Megnyitás](./esszek/4.md) |
 | 3 | A rendszerváltoztatás (1989–1991). A piacgazdaságra való áttérés, gazdasági szerkezetváltás, privatizáció, a külföldi tőke szerepe, a külkereskedelem átalakulása | ✅ | [Megnyitás](./essays/cold_war/4.md) |
 
@@ -100,4 +100,4 @@
 | 17 | A második világháború kitörése, hadviselő felek, a világháború jellemzői (háborús bűnök, polgári célpontok és lakosság elleni erőszak, hátország, ellenállás) | | |
 | 18 | A zsidóság jogfosztásának folyamata és a holokauszt Európában és Magyarországon | ✅ | [Megnyitás](./final_exam/topic18.md) |
 | 19 | A szovjet–amerikai szembenállás, két Németország létrejötte, a két világrend jellemzői | ✅ | |
-| 20 | Széchenyi István történelmi portréja | | |
+| 20 | Széchenyi István történelmi portréja | ✅ | |
