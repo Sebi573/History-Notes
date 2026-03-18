@@ -54,8 +54,8 @@
 | # | Esszé címe | Állapot | Link |
 |:--|:-----------------------------|:-------:|:----:|
 | 1 | A háború jellemzői, hadviselő felek – Magyarország részvétele a háborúban | ✅ | [Megnyitás](./esszek/egyiptom.md) |
-| 2 | A forradalmi átalakulás kísérlete, tanácsköztársaság, ellenforradalom Magyarországon 1918–1920-ban | | [Megnyitás](./esszek/2.md) |
-| 3 | Politikai és gazdasági konszolidáció Magyarországon az 1920-as években | | [Megnyitás](./esszek/4.md) |
+| 2 | A forradalmi átalakulás kísérlete, tanácsköztársaság, ellenforradalom Magyarországon 1918–1920-ban | ✅ | [Megnyitás](./esszek/2.md) |
+| 3 | Politikai és gazdasági konszolidáció Magyarországon az 1920-as években | ✅ | [Megnyitás](./esszek/4.md) |
 | 4 | A területi revízió lépései, az ország hadba sodródásának folyamata | | [Megnyitás](./esszek/4.md) |
 | 5 | Német megszállás, nyilas diktatúra – a hadszíntérré vált ország, deportálások a Szovjetunióba | ✅ | [Megnyitás]() |
 
