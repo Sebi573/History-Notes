@@ -20,7 +20,7 @@ sem volt a tagja. pl.: Csák Máté, Kőszegi Henrik, Subics Pál
 ### 3. KÁROLY RÓBERT
 
 #### 3.1 Károly Róbert útja a hatalomig
-- 1300-ban érkezett Magyarországra az Anjou családból származó Károly Róbert (*délvidéki horvát urak, egyház támogatása*)
+- 1300-ban érkezett Magyarországra az Anjou családból származó Károly Róbert (délvidéki horvát urak, egyház támogatása)
 - 1301-ben koronázták meg először magyar királlyá, azonban **nem a Szent Koronával**
 - Nem fogadták el a főurak → II. Vencel cseh király fia lett az uralkodó (1301 - 1305)
 - Károly Róbert 1308-ban elérte, hogy a két legnagyobb tartományúr (Csák Máté és Kőszegi Henrik) is elismerje hatalmát
