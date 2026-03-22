@@ -10,43 +10,15 @@
     - összetartozás-tudat, amely önazonosságának megőrzésére, közösségi érdekeinek kifejezésére és védelmére irányul
 
 - 13 honos népcsoport
-- **Németek:**
-    - Kb. 170 ezer fő
-    - Baranya, Dunántúli-középhegység
-
-- **Szlovákok:**
-    - Kb. 80 - 100 ezer fő, az 1946-49-es lakosságcsere eredményeként 
-    - Pest, Északi-középhegység, Békés
-
-- **Horvátok:**
-    - Kb. 35 ezer fő
-    - Mohács, Baja környékén
-
-- **Románok:**
-    - Kb. 15 - 20 ezer fő
-    - Román - magyar határ mentén + főváros
-
-- **Lengyelek:**
-    - Kb. 8 - 10 ezer fő
-    - II. világháború után vendégmunkásként érkeztek
-
-- **Szerbek:**
-    - Kb. 5 ezer fő
-    - Török kiűzést követően, kereskedők
-    - Egykori települések a Duna mentén
-    - Délszláv háború után Szeged, Pécs környékén
-
-- **Bolgárok:**
-    - Kb. 3 ezer fő
-    - Budapest, Pécs, Miskolc
-
-- **Görögök**:
-    - Kb. 3 ezer  fő
-    - 1948 - 1950 között érkezett kb. 13 ezer fő
-    - Sokan hazaköltöztek
-
-- **Szlovénok**:
-    - Kb. 2 ezer fő
+- **Németek**
+- **Szlovákok**
+- **Horvátok**
+- **Románok**
+- **Lengyelek**
+- **Szerbek**
+- **Bolgárok**
+- **Görögök**
+- **Szlovénok**
 
 - További kisebbségek: cigány, örmény, ruszin, ukrán
 - Öregedő korstruktúra (kivéve a cigányság)
@@ -58,7 +30,7 @@
     - Nyelvhasználat
     - Támogatások és jogvédelem
 
-- `2011. évi CLXXIX.` nemzeti és etnikai kisebbségek helyett **nemzetiség** kifejezés
+- 2011 évi CLXXIX. nemzeti és etnikai kisebbségek helyett **nemzetiség** kifejezés
 - **Alaptörvényben rögzített jogok:**
     - Önazonosság
     - Anyanyelvhasználat
@@ -71,12 +43,6 @@
     - Települési szinten választás (legalább 30 fő)
     - Területi szinten választás (legalább 10 települési önkormányzati választás)
     - Országos szinten választás (független a többitől)
-
-- Regisztrálniuk kell a nemzetiségi névjegyzékbe
-        - Képviselőjelölt: vállalnia kell a nemzetiségnek a képviseletét
-
-- Közvetett úton is létrehozható:
-    - Ha a település választójoggal rendelkező lakosságának több mint 50%-a szerepel a nemzetiségi választójogi névjegyzékben, valamint a képviselők több mint fele nemzetiségi jelölt.
 
 #### 4.4 A magyarországi romák
 
@@ -104,8 +70,6 @@
     - **Képzetlenség**
 
 - II. világháború idején romaellenes intézkedések, cigányok deportálása
-    - Sok település letelepedet cigány közösségét szállították el
-    - Kb. 5 - 10 ezer halálos áldozat
 
 - II. világháború után:
     - Tömegesen munkába álltak, főként építőiparban, textiliparban és bányászatban
@@ -127,3 +91,7 @@
 - 1994: **Nemzeti és Etnikai Kisebbségi Jogvédő Iroda**
 - **Roma Polgárjogi Alapítvány**
 
+#### 4.7 Híres romák
+- Járóka Lívia (EP képviselő)
+- Galamb Alex (pék)
+- Cziffra György (zongoraművész)

@@ -71,10 +71,10 @@
 
 | # | Esszé címe | Állapot | Link |
 |:--|:-----------------------------|:-------:|:----:|
-| 1 | Az Európai Unió főbb szervei és működésük |  | [Megnyitás](./esszek/egyiptom.md) |
+| 1 | Az Európai Unió főbb szervei és működésük | ✅ | [Megnyitás](./esszek/egyiptom.md) |
 | 2 | Demográfiai változások, a népmozgások irányai a világban és Magyarországon 1945-től napjainkig | | [Megnyitás](./esszek/2.md) | 
 | 3 | Az Alaptörvény, a hatalmi ágak és intézményeik, az önkormányzatok és a választási rendszer  | | [Megnyitás](./esszek/4.md) |
-| 4 | A határon túli magyarok helyzete napjainkban (demográfia, asszimiláció, autonómia, oktatás) | | [Megnyitás](./esszek/4.md) |
+| 4 | A határon túli magyarok helyzete napjainkban (demográfia, asszimiláció, autonómia, oktatás) | ✅| [Megnyitás](./esszek/4.md) |
 
 
 ## 🗣️ Szóbeli érettségi tételek

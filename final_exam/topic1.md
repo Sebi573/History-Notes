@@ -41,9 +41,10 @@ sem volt a tagja. pl.: Csák Máté, Kőszegi Henrik, Subics Pál
 
 - **Legfontosabb regálék**:
     - **Bányaregálé:** a király által kiváltságolt bányák a kitermelt arany 1/10-ét, az ezüst 1/8-át adták a királynak
-    - **Nemesfém és pénzverés monopóliuma:** tilos volt a kitermelt nyersfémet adni-venni és kivinni az országból (a kitermelt fémeket a királyi kamarák felvásárolták → **1325: aranyforint**)
-    - **Kapuadó:** minden olyan kapu után 18 ezüstdénár adót kellett fizetni évente, amelyen egy szénásszekér átfért, egyéb esetben csak a felét.
-    - **Harmincadvám:** a megnövekedett külkereskedelmi forgalomra kivetett határvám volt.
+    - **Nemesfém és pénzverés monopóliuma:** tilos volt a kitermelt nyersfémet adni-venni és kivinni az országból (a kitermelt fémeket a királyi kamarák felvásárolták → **1325: aranyforint**, firenzei mintára)
+    - **Kapuadó:** minden olyan kapu után 18 ezüstdénár adót kellett fizetni évente, amelyen egy megrakott szénásszekér átfért, egyéb esetben csak a felét.
+    - **Harmincadvám:** a megnövekedett külkereskedelmi forgalomra kivetett határvám volt. (Hunyadi Mátyás idején koronavám)
+    - **Külföldi bányászok behívása**
 
 #### 3.4 Külpolitika
 
