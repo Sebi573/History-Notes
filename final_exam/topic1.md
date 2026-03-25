@@ -40,7 +40,7 @@ sem volt a tagja. pl.: Csák Máté, Kőszegi Henrik, Subics Pál
 - A gazdasági reformok hátterében a domaniális jövedelmek (királyi birtokokból beszedett jövedelmek) leváltása állt, helyette: **regálé** (királyi jogon beszedett jövedelmek).
 
 - **Legfontosabb regálék**:
-    - **Bányaregálé:** a király által kiváltságolt bányák a kitermelt arany 1/10-ét, az ezüst 1/8-át adták a királynak
+    - **Bányaregálé:** a király által kiváltságolt bányák a kitermelt arany 1/10-ét, az ezüst 1/8-át adták a királynak, a király lemondott az urbura 1/3-ról, valamint megtarthatták a földterületet a földesurak
     - **Nemesfém és pénzverés monopóliuma:** tilos volt a kitermelt nyersfémet adni-venni és kivinni az országból (a kitermelt fémeket a királyi kamarák felvásárolták → **1325: aranyforint**, firenzei mintára)
     - **Kapuadó:** minden olyan kapu után 18 ezüstdénár adót kellett fizetni évente, amelyen egy megrakott szénásszekér átfért, egyéb esetben csak a felét.
     - **Harmincadvám:** a megnövekedett külkereskedelmi forgalomra kivetett határvám volt. (Hunyadi Mátyás idején koronavám)
