@@ -83,12 +83,12 @@
 |:--|:-----------------------------|:-------:|:----:|
 | 1 | A királyi hatalom újbóli megszilárdítása Anjou I. Károly idején, a visegrádi királytalálkozó | ✅ | [Megnyitás](./final_exam/topic1.md) |
 | 2 | Az uradalom, a földbirtokosok és jobbágyok kötelességei és jogai | ✅ | [Megnyitás](./final_exam/topic2.md) |
-| 3 | A portugál és spanyol felfedezések, a korai kapitalizmus (árforradalom, manufaktúrák, bankok és tőzsde, a jobbágyrendszer átalakulása)  | ✅ | [Megnyitás](./esszek/4.md) |
+| 3 | A portugál és spanyol felfedezések, a korai kapitalizmus (árforradalom, manufaktúrák, bankok és tőzsde, a jobbágyrendszer átalakulása)  | ✅ | [Megnyitás](./final_exam/topic3.md) |
 | 4 | A trianoni békediktátum születése, tartalma és következményei | ✅ | [Megnyitás](./final_exam/topic4.md) |
 | 5 | A középkori város és lakói, a város kiváltságai, a céhek, a helyi és távolsági kereskedelem | ✅ | [Megnyitás](./final_exam/topic5.md) |
 | 6 | IV. Béla uralkodása: tatárjárás és újjáépítés | ✅ | [Megnyitás](./final_exam/topic6.md) |
 | 7 | A pártállam, a téeszesítés, a tervgazdaság, a kultúrpolitika, az elnyomás változó formái – a kádári alku | ✅ | [Megnyitás](./final_exam/topic7.md) |
-| 8 | Géza és I. (Szent) István államszervező tevékenysége, a földbirtokrendszer és a vármegyeszervezet | ✅ | [Megnyitás](./final_exam/topic7.md) |
+| 8 | Géza és I. (Szent) István államszervező tevékenysége, a földbirtokrendszer és a vármegyeszervezet | ✅ | [Megnyitás](./final_exam/topic8.md) |
 | 9 | Hunyadi Mátyás: a központosított királyi hatalom, jövedelmek és kiadások, birodalomépítő tervek | ✅ | [Megnyitás](./final_exam/topic9.md) |
 | 10 | A magyarországi nemzetiségek és a cigányság helyzete napjainkban (demográfia, kisebbségi jogok, oktatás) | ✅ | [Megnyitás](./final_exam/topic10.md) |
 | 11 | Oktatás és kultúrpolitika Magyarországon ( a két világháború közti Magyarországon ) | ✅ | [Megnyitás](./final_exam/topic11.md) |
