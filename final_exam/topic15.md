@@ -1,4 +1,4 @@
-## 🧠 ESSZÉVÁZLAT – Cím
+## 🧠 ESSZÉVÁZLAT – A kommunista Szovjetunió
 
 ### 3. ELŐZMÉNYEK
 - 1917 március 8-án kezdőddött polgári forradalom után Lvov herceg vezette az Ideiglenes Kormányt
