@@ -26,9 +26,9 @@
 |:--|:-----------------------------|:-------:|:----:| 
 | 1 | Az ellenreformáció, a katolikus megújulás és a barokk Európában és Magyarországon | ✅ | [Megnyitás](./essays/early_modern_age/1.md) |
 | 2 | A mohácsi csata és közvetlen előzményei, a kettős királyválasztás | ✅ | [Megnyitás](./esssays/early_modern_age/2.md) |
-| 3 | Az ország három részre szakadása; a várháborúk (1541–1568) | ✅ | [Megnyitás](./essays/early_modern_age/4.md) |
-| 4 | Erdély sajátos etnikai és vallási helyzete  | ✅ |[Megnyitás](./essays/early_modern_age/5.md) |
-| 5 | *A Rákóczi-szabadságharc okai, céljai, fordulópontjai és a szatmári béke* | | [Megnyitás](./esszek/4.md) |
+| 3 | Az ország három részre szakadása; a várháborúk (1541–1568) | ✅ | [Megnyitás](./essays/early_modern_age/3.md) |
+| 4 | Erdély sajátos etnikai és vallási helyzete  | ✅ |[Megnyitás](./essays/early_modern_age/4.md) |
+| 5 | *A Rákóczi-szabadságharc okai, céljai, fordulópontjai és a szatmári béke* | ✅ | [Megnyitás](./essays/early_modern_age/5.md) |
 | 6 | *Magyarország újranépesülése és újranépesítése* | ✅ | [Megnyitás]() |
 | 7 | A brit alkotmányos monarchia és az amerikai köztársaság működése | | [Megnyitás]() |
 | 8 | A felvilágosodás államelméletei; az Emberi és polgári jogok nyilatkozata | ✅ | [Megnyitás](./essays/early_modern_age/8.md) |
