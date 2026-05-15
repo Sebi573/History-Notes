@@ -12,7 +12,7 @@
 - Magyarország a Kádár-korszakban a szovjet tömb része volt
 - A megtorlással párhuzamosan helyreállították a pártállami struktúrát
 - Országgyűlés jelentéktelen lett (csak a Hazafias Népfrontra lehetett szavazni)
-- 1957. febr. 19-én **Munkásőrség** létrejötte (párthadsereg)
+- 1957 febr. 19-én **Munkásőrség** létrejötte (párthadsereg)
 - DISZ helyett **KISZ**, párt által irányított szervezetek már általános iskolában
 - Az államot a **Központi Bizottság** irányította
 - Legfontosabb testület: **Politikai Bizottság**
