@@ -7,7 +7,7 @@
 
 
 ### 2. KULCSÉVSZÁMOK
-- **1920. június 4.**: a trianoni békediktátum 
+- **1920 június 4**: a trianoni békediktátum 
 
 
 
@@ -30,7 +30,7 @@
 
 #### 4.1 A békekonferencia
 
-- **1919. január 18 - 1920. január 21**
+- **1919 január 18 - 1920 január 21**
 - Győztes országok:
     - Anglia: Lloyd George
     - Franciaország: George Clemenceau
