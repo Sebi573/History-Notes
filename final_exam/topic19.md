@@ -1,5 +1,4 @@
-## 🧠 ESSZÉVÁZLAT – A szovjet–amerikai szembenállás, a két Németország létrejötte,
-a két világrend jellemzői
+## 🧠 ESSZÉVÁZLAT – A szovjet–amerikai szembenállás, a két Németország létrejötte, a két világrend jellemzői
 
 ### 1. IDŐ- ÉS TÉRBELI ELHELYEZÉS
 
