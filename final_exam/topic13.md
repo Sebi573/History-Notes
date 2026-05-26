@@ -63,7 +63,7 @@
     - Megtiltották az erőszakos vallásváltoztatást
 
 - Franciaország:
-    - 1572. augusztus. 23-24 éjjelén Bourbon Henrik és Medici Margit házasságára érkező hugenottákat lemészárolták a katolikusok
+    - 1572 augusztus. 23-24 éjjelén Bourbon Henrik és Medici Margit házasságára érkező hugenottákat lemészárolták a katolikusok
     - 1589-ben megölte III. Henriket egy domonkos szerzetes
     - 1598: nantes-i ediktum (különböző vallásúak együttéléséről szólt)
     - A hugenották szabadon élhetnek, de vallásukat nyilvánosan csak a kijelölt városokban gyakorolhatják
