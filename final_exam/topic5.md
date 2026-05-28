@@ -20,6 +20,7 @@
 - **Gazdasági jogok:** piactartás, egyösszegű adó
 - **Birtokjog:** falvak, jobbágyak
 - **Szabad plébánosválasztás**
+- **Árumegállító jog**
 - Nyugat-Európában a rendi monarchiákban a király a rendi gyűlésbe hívta a városi polgárság képviselőit is
 - Nagy befolyásra tettek szert egyes családok pl. Firenze - Medici
 
@@ -55,13 +56,7 @@
 
 - Céhen kívüli iparos = kontár
 
-#### 3.5 Vásár és piac
-
-- Városi jog volt
-- Árumegállítási jog (ideiglenesen kényszerítették a városba való betérésre)
-- Országos vásár és heti piac
-
-#### 3.6 Tengeri kereskedelem
+#### 3.5 Tengeri kereskedelem
 
 - Luxusáru kereskedelem, vízi úton
 - Levantei kereskedelem:
@@ -74,7 +69,7 @@
     - Skandináv népek, később észak-német városok és a flandriai városok uralták
     - XIV. században alakult ki a városszövetség, amit Hanzának nevezünk
 
-#### 3.7 Szárazföldi kereskedelem
+#### 3.6 Szárazföldi kereskedelem
 
 - Észak-Itáliai kereskedővárosok, flandriai posztóvárosok
 - Főbb útvonalak: folyamok
