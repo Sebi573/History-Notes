@@ -13,10 +13,6 @@
 
 ### 3. ELŐZMÉNYEK
 
-- Osztrák-Magyar Monarchia népessége:
-    - Két nagy nemzet: osztrák, magyar
-    - Széles jogkörű nemzetek: horvát, lengyel
-
 - Az első világháború során a Monarchia felbomlására irányuló igények megjelentek, önálló nemzetállamok
 - Nyugati antant hatalmak támogatták a nemzetiségek elszakadását
 - Habsburg Károly föderalizálta a Monarchia nyugati felét, de már késő volt
