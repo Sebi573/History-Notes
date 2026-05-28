@@ -61,8 +61,8 @@
     - Vörös-térkép (kisebbségbe kerülő magyarság kihangsúlyozása)
 
 - Végül nem változtattak semmit a békeszerződésen
-- 1920. május 6-án végleges békefeltételek
-- 1920. június 4-én a Nagy-Trianon palotában írták alá (Benárd Ágoston és Drasche Lázár Alfréd)
+- 1920 május 6-án végleges békefeltételek
+- 1920 június 4-én a Nagy-Trianon palotában írták alá (Benárd Ágoston és Drasche Lázár Alfréd)
 
 
 
