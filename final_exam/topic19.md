@@ -19,9 +19,7 @@
 
 #### 4.1 Az ENSZ létrejötte
 
-- **1942:** antifasiszta koalíció tagjai nevezték magukat Egyesült Nemzeteknek
 - **1944 Dumbarton Oaks-i konferencia:** alapszabály kidolgozása
-- 1945 február **jaltai konferencia:** Biztonsági Tanács tagjainak vétójog
 - **1945 június 26:** San Franciscóban 50 állam írja alá az Alapokmányt
 - **Célok:**
   - Világbéke biztosítása
@@ -32,7 +30,6 @@
   - Elismerik a többi állam önvédelmi jogát
   - Más államok belügyeibe nem avatkoznak be
 
-- Helsinki záróokmány: rögzítette az államok közötti kapcsolatok szabályait
 - Szerkezet:
   - **Közgyűlés:**
     - Évente 1x ülésezik
@@ -51,8 +48,6 @@
     - Határozatai kötelezőek:
       - Egyhangúság kell hozzá
       - Állandó tagoknak azonban vétójoga van
-
-  - Titkárság
   - **Szakosított intézmények** pl. WHO, UNESCO, IMF
 
 
@@ -92,19 +87,23 @@
 
 - **1947-es év a hidegháború kezdete**
 - **Hidegháború:** nem fegyversen vívott háború, hanem olyan tartós szembenállás, amelyben két szuperhatalom állt szemben egymással
+  
 - 1947 március 12 **Truman-elv:**
   - Két életforma létezik: demokrácia és a kommunista diktatúra
   - Az USA elfogadja a szovjet befolyású területeket
   - További területeken történő előretörést azonban fel kell tartóztatni (dominó-elv miatt; láncreakciószerű befolyásszerzés)
   - Az USA-nak támogatnia kell a demokratikus országokat
+    
 - **Marshall-terv:**
   - A nem szovjet európai területek gazdasági támogatása
   - Az USA számára biztosítani az európai piacot
+    
 - Szovjetunió nem fogadta el a feltételeket, a szovjet fennhatóság alatt álló országoknak is megtiltotta a csatlakozást
-- **1949 április 4-án megalakult a NATO**
+
 - Truman-elvre adott szovjet válasz: **Zsdanov-doktrína** (a két tábor elmélete)
   - **Imperialista tábor:** új háborút akarnak a szocializmus és a demokrácia ellen
   - **Antiimperialista tábor:** demokrácia megszilárdítása, fasizmus felszámolása
+
 - Megkezdődtek a kommunista pártok hatalomátvételei Kelet-Európában
 - **1949 létrejött a KGST:** szocialista országok gazdasági szervezete
 - **1955 Varsói Szerződés:** szocialista országok katonai szervezete
