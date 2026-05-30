@@ -11,13 +11,7 @@
 
 ### 3. A DIKTATÚRA MŰKÖDÉSE
 
-#### 3.1 Egyházellenes politika
-
-- Egyházi iskolák államosítása
-- `1948` karácsony: Mindszenty József hercegprímás őrizetbe vétele
-- Lemondatják, elítélik, megfélemlítik a többi egyház vezetőit is 
-
-#### 3.2 Teljes hatalomátvétel
+#### 3.1 Teljes hatalomátvétel
 
 - `1949.` februárjára a Függetlenségi Népfront elfogadja az MDP vezető szerepét
 - 96%-os győzelem (csak az MDP jelöltjeire szavazhattak)
@@ -34,6 +28,12 @@
     - Munkatáborok: bírói ítélet nélkül, kényszermunka
     - **Koncepciós perek:** előre elkészített forgatókönyv alapján; megfélemlítés volt a célja
     - **Ellenségkép:** kulákok, alulteljesítő munkások
+
+#### 3.2 Egyházellenes politika
+
+- Egyházi iskolák államosítása
+- `1948` karácsony: Mindszenty József hercegprímás őrizetbe vétele
+- Lemondatják, elítélik, megfélemlítik a többi egyház vezetőit is 
 
 #### 3.3 Államosítások, kollektivizálás
 
