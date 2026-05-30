@@ -59,6 +59,12 @@
 - Iparvárosok pl. Dunaújváros (Sztálinváros)
 
 #### 3.5 Mindennapok, propaganda:
+- Az állam mindenki számára biztosított munkahelyet, de a béreket
+alacsonyan tartották
+- Felrúgták a mélyen gyökerező hagyományokat, szokásokat,
+megbontották a társadalmat összetartó kapcsolatokat
+- Új ünnepeket teremtettek pl. Tanácsköztársaság ünnepe (március 21)
+- Sok művészt és művét betiltották pl. Az ember tragédiája vagy Bartók
 - Totális diktatúra kiépítése
 - Magánélet befolyásolása
 - Mindenki számára volt munkahely, de alacsony bérek
@@ -68,4 +74,5 @@
 - Mindig tapsolni kellett
 - Rákosi 60. születésnapja: versek, dalok
 - Gyermekkortól felnőttkorig a pártideológia
+- Sikerek pl. Aranycsapat
 
