@@ -18,9 +18,9 @@
 - kereszténység és az egyház szervezete  
 - római jogi hagyományok  
 
-- A **klasszikus feudalizmus** Nyugat-Európában alakult ki  
-- A földbirtok lett a gazdaság és a hatalom alapja  
-- A hűbérúr földet adott → a hűbéres katonai szolgálattal tartozott
+A **klasszikus feudalizmus** Nyugat-Európában alakult ki  
+A földbirtok lett a gazdaság és a hatalom alapja  
+A hűbérúr földet adott → a hűbéres katonai szolgálattal tartozott
 
 
 
