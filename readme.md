@@ -3,7 +3,7 @@
 | # | Tétel címe | Állapot | Link |
 |:--|:-----------------------------|:-------:|:----:|
 | 1 | A királyi hatalom újbóli megszilárdítása Anjou I. Károly idején, a visegrádi királytalálkozó | ✅ | [Megnyitás](./final_exam/topic1.md) |
-| 2 | Az uradalom, a földbirtokosok és jobbágyok kötelességei és jogai |  | [Megnyitás](./final_exam/topic2.md) |
+| 2 | Az uradalom, a földbirtokosok és jobbágyok kötelességei és jogai | ✅ | [Megnyitás](./final_exam/topic2.md) |
 | 3 | A portugál és spanyol felfedezések, a korai kapitalizmus (árforradalom, manufaktúrák, bankok és tőzsde, a jobbágyrendszer átalakulása)  |  | [Megnyitás](./final_exam/topic3.md) |
 | 4 | A trianoni békediktátum születése, tartalma és következményei | ✅ | [Megnyitás](./final_exam/topic4.md) |
 | 5 | A középkori város és lakói, a város kiváltságai, a céhek, a helyi és távolsági kereskedelem | ✅ | [Megnyitás](./final_exam/topic5.md) |
