@@ -4,55 +4,69 @@
 ### 1. IDŐ- ÉS TÉRBELI ELHELYEZÉS
 - **Időhatár:** 1922 - 1931 (Bethlen-kormány)
 
+### 2. A kultúrfölény politikája
+- Bethlen-kormány vallás- és közoktatási minisztere: Klebelsberg Kunó
+- Neonacionalizmus megteremtése: művelt, jómódú nemzet kialakítása a nemzetnevelésen és a jólétet biztosító szociálpolitikán keresztül
+- Cél: hosszú távon biztosítani a magyarság kulturális és szellemi fölényét a Kárpát-medencében
+- Mindenkinek meg kell tanulnia írni-olvasni, számolni, valamint ismernie kell mindenkinek a nemzeti kultúrát, történelmet
+- Felelős politikai döntések meghozatalára képes nemzet
 
-
-### 2. ELŐZMÉNYEK
-- Bethlen-kormány vallás- és közoktatásügyi minisztere: Klebelsberg Kunó
-- A 20. század legnagyobb oktatás és kultúrpolitikai fejlesztése ment véghez
+### 3. Oktatásfejlesztés
 - Magyarországon 1920-ban analfabetizmus aránya: 15%
-- Falvanként egy-két tanító, kevés tanterem
 - Kunó: "A magyar hazát nem a kard, hanem a kultúra tarthatja meg és teheti naggyá."
+- Az 1920-as évek második felére a költségvetés kb. 10%-át költötték az oktatásra (legnagyobb valaha)
+- 1926-os népiskolai törvény:
+  - Új tantermek
+  - Tanítói lakások
 
+- Népfőiskolák
+- Középiskolai reform:
+  - Humángimnáziumok: nyelvek, klasszikus történeti ismeretek
+  - Reálgimnáziumok: modernebb ismeretanyagok
+  - Nagy figyelmet fordítottak a vallási-erkölcsi nevelésre
+  - Kötelező testnevelés
 
+- Felsőoktatás:
+  - Sopronba települt át a selmecbányai Bányászati és Erdészeti Főiskola
+  - Pécsre került a pozsonyi egyetem, a kolozsvári pedig Szegedre
+  - Ösztöndíjak a fiatal kutatóknak
+  - Külföldön Collegium Hungaricumok: Bécs, Berlin, Róma, ...
+    - Magyar kultúra terjesztése
+    - Magyar ösztöndíjasok támogatása
+      
+- Magyar tudósok hazahívása pl. Szent-Györgyi Albert
 
-### 3. OKTATÁS ÉS KULTÚRPOLITIKA
-
-#### 3.1 Kultúrfölény és neonacionalizmus
-
-- Korszak kultúrpolitikai célja: magyarság Kárpát-medencei **kultúrfölényének** biztosítása
-- **Nemzeti összetartozás** érzésének erősítése
-- Politikai tudatosság kialakítása a hétköznapi emberekben
-- A költségvetés több mint 10%-a fordult oktatásfejlesztésre (korábban nem látott mérték)
-- Népiskola-építési program
-- Infrastruktúrális fejlődés: tanítói lakások, elérhetőbb oktatás, több tanterem
-- **Neonacionalizmus:** a nyugati államokhoz való felzárkózás alapja a tudományos teljesítmény
-
-
-#### 3.2 Fejlesztések eredményei
+### 4. Fejlesztések eredményei
 
 - Széleskörben elérhető felemelkedési lehetőségek: diploma, érettségi
 - Analfabetizmus aránya 7%-ra csökken
-- 5000 új tanterem 1926 és 1930 között
 - Tanárok számára biztos egzisztencia pl. fizetés, lakhatás, társadalmi megbecsülés
-- Állami alkalmazottak gyermekei számára ösztöndíj-program
 
-#### 3.3 Felsőoktatási fejlődés
+### 5. Ideológia
 
-- Collegium Hungaricum: Róma, Berlin, Bécs
-- Szegedi Egyetem, Pécsi Egyetem
-- Sopron: Selmecbányai Bányászati és Erdészeti Főiskola
-- Európai színvonalú oktatás
+- A korszak fő ideológiája a keresztény-nemzeti eszme volt
+- Konzervativizmus, antikommunizmus jellemezte az ideológiát
+- A nemzeti gondolat középpontjában az ezeréves Szent Istváni Magyarország visszaállítás állt
 
-#### 3.4 Tudományos élet:
+### 6. A népi-urbánus vita
 
-- MTA rendszeres állami támogatása
-- Magyar tudósok hazahívása pl. Szent-Györgyi Albert
-- Új tudományos intézetek pl. Magyar Biológiai Kutatóintézet
+- Népiek:
+  - Sokféle politikai nézet egyesült
+  - A magyar társadalom alapja a parasztság, ezért földreformra van szüskég
 
+- Urbánusok:
+  - Sokféle politikai nézet egyesült
+  - A XIX. századi liberális alapelveken nyugvó álláspont szerint a társadalom alapja a független egyén
+  - Nyugat-európai demokráciák útján kell haladnia Magyarországnak
 
+- A népi-urbánus vita a korban a kormánnyal szemben álló ellenzéki irányzat küzdelme volt
 
-#### 3.5 Lezárás
+### 5. Utóélet
 
-A Bethlen-kormány ideje alatt korábban nem látott mértékben fejlődött Magyarország kultúrpolitikai és oktatáspolitikai helyzete, amely csupán az intellektuális fejlődés útján próbálta meg javítani országunk nemzetközi sikerét. 
+- Hóman Bálint követte Klebelsberg Kunót a miniszterségben
+- Folytatta elődje oktatáspolitikáját, kifejezetten koncentrálva a népnevelésre
+- Bevezette az egységes középiskolát
+- Támogatta a külföldi egyetemeken magyar tanszékek létrehozását
+- Vitatott volt személye antiszemitizmus miatt
 
 
