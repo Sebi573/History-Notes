@@ -5,8 +5,9 @@
 
 ### 3. ELŐZMÉNYEK
 - 1443-ban született Kolozsváron
-- Család vezetője: Hunyadi László (V. László király kivégeztette)
-- Szilágyi Mihály 1458 januárjában elérte, hogy Mátyást királlyá válasszák
+- Hunyadi János halála után Hunyadi László lett a családfő --> kivégezték
+- V. László váratlanul meghalt
+- Szilágyi Mihály (Mátyás nagybátyja) 1458 januárjában elérte, hogy Mátyást királlyá válasszák
 - Megkoronázni még nem tdták, mivel III. Frigyesnél volt a korona
 
 ### 4. A TÉMA LÉNYEGI ELEMEI
