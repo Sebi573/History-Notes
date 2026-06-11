@@ -2,7 +2,7 @@
 
 
 ### 1. IDŐ- ÉS TÉRBELI ELHELYEZÉS
-- **Időhatár:** 1922 - 1931 (Bethlen-kormány)
+- **Időhatár:** 1921 - 1931 (Bethlen-kormány)
 
 ### 2. A kultúrfölény politikája
 - Bethlen-kormány vallás- és közoktatási minisztere: Klebelsberg Kunó
