@@ -31,6 +31,8 @@
 - 1494-ben kötötték meg
 - Felosztották egymás között az Újvilágot
 - Spanyolok kapták a legnagyobb részt Amerikából
+- A tordesillas-i szerződést kiegészítő, 1529-ben megkötött zaragozai
+szerződés az ázsiai és az óceániai érdekszférát különítette el
 
 #### 4.4 A kereskedelem, az árforradalom
 
