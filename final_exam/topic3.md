@@ -77,32 +77,6 @@
 
 - Új világgazdasági rendszer központja: atlantikum
 
-#### 4.6 Abszolutizmus
-
-- Az állam, a központi hatalom felemelkedése volt jellemző, kialakult az abszolutizmus
-- **Jellemzői:**
-    - Nem hívták össze a rendi gyűlést, rendeletekkel kormányoztak
-    - Királytól függő hivatalrendszer
-    - Állandó, kiképzett nemzeti hadseregek
-
-- **Spanyolország:**
-    - I. Károly uralkodása idején alakult ki, II. Fülöp idején teljesedett ki
-    - Központi igazgatási szervek: tanácsok
-
-- **Anglia:**
-    - VII. Henrik alatt kezdődött (Csillagkamara)
-    - VIII. Henrik "titkos tanács" a kormányzat legfontosabb szerve lett; anglikán egyház
-
-- **Franciaország:**
-    - XVII. századra épült ki az abszolutizmus
-    - XIV. Lajos ("Napkirály") uralkodása alatt élte fénykorát
-    - Autonómiák felszámolása (nem hívták össze a rendi gyűlést)
-    - Teljhatalmú intendánsok képviselték a királyt
-    - Állami beavatkozás a gazdaságba; megszületett a merkantilizmus
-    - Nemzeti hadsereg
-    - Királytól függő gallikán egyház
-    - Korlátozott vallásszabadság
-
 
 
 
