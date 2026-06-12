@@ -44,10 +44,6 @@
   - Tengelyhatalmak: Németország, Japán, Olaszország
   - Szövetségesek: USA, Szovjetunió, Anglia, Franciaország
 
-- Anglia: Churchill miniszterelnök, pénzügyminiszter és védelmi miniszter
-- USA: Roosevelt államfő, a hadsereg főparancsnoka
-- Németország: Hitler kancellár, személyesen is hozott katonai döntéseket
-- Szovjetunió: Sztálin, a háború idején a hadsereg főparancsnoka, kezdetben sok hiba pl. taktikai (személyi kultusszal megalapozott vezetés)
 - **Főbb események:**
   - 1941 június 22: Németország megtámadta a Szovjetuniót (angol szövetséges)
   - 1941 december 7: Pearl Harbor bombázása (USA fontos hadikikötője)
