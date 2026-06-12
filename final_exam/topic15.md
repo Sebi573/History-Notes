@@ -1,7 +1,7 @@
 ## 🧠 ESSZÉVÁZLAT – A kommunista Szovjetunió
 
 ### 3. ELŐZMÉNYEK
-- 1917 március 8-án kezdőddött polgári forradalom után Lvov herceg vezette az Ideiglenes Kormányt
+- 1917 március 8-án kezdődött polgári forradalom után Lvov herceg vezette az Ideiglenes Kormányt
 - Folytatta a háborút, nem volt földosztás
 - Másik hatalmi centrum: Pétervári Szovjet (kettős hatalom)
 - 1917 tavaszán a bolsevik párt még kicsi volt (a szovjetekben (tanácsokban) kisebbségben voltak)
